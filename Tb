@@ -5,9 +5,9 @@ EXTM3U
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 tvg-id="tv1-lt" group-title="MYBasic CH",TV1
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MYBasic CH",TV1
 http://foctv.xyz:25510/548859/585898/1
-#EXTINF:-1 tvg-id="tv1-lt" group-title="MYBasic CH",TV1 (FHD)
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 (FHD)" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MYBasic CH",TV1 (FHD)
 http://foctv.xyz:25510/548859/585898/2
 
 #EXTINF:-1 tvg-id="TV2" group-title="MYBasic CH" ch-number="102" tvg-logo="https://aqfadtv.astradamy.com/logos/TV2.png",102 TV2
@@ -15,27 +15,27 @@ http://foctv.xyz:25510/548859/585898/2
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5027
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TV2.dk" group-title="MYBasic",TV2
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="MYBasic CH",TV2
 http://foctv.xyz:25510/548859/585898/3
-#EXTINF:-1 tvg-id="TV2.dk" group-title="MYBasic",TV2 (FHD)
+#EXTINF:-1 tvg-id="TV2" tvg-name="TV2 (FHD)" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="MYBasic CH",TV2 (FHD)
 http://foctv.xyz:25510/548859/585898/4
 
 #EXTINF:-1 tvg-id="TV3" group-title="MYBasic CH" ch-number="103" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png",103 TV3
 # https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
-#EXTINF:-1 tvg-id="tv3" group-title="MYBasic CH",TV3 (Full HD)
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3 (Full HD)" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="MALAYSIA",TV3 (Full HD)
 http://foctv.xyz:25510/548859/585898/5
-#EXTINF:-1 tvg-id="TV3" group-title="MYBasic CH",TV3(B)
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3(B)" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="MYBasic CH",TV3(B)
 http://foctv.xyz:25510/548859/585898/6
-#EXTINF:-1 tvg-id="TV3" group-title="MYBasic CH",TV3(C)
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3(C)" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="MYBasic CH",TV3(C)
 http://foctv.xyz:25510/548859/585898/7
 
 #EXTINF:-1 tvg-id="TV6" group-title="MYBasic CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",113 TV6
 # https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
-#EXTINF:-1 tvg-id="tv6-lat" group-title="MYBasic CH",TV6
+#EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://i.ibb.co/8d4qB3r/6.png" group-title="MYBasic CH",TV6
 http://foctv.xyz:25510/548859/585898/203
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
@@ -44,9 +44,9 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria (Backup)
 http://axcestv.vip:8080/live/freeview/axcestv/454.ts
 
-#EXTINF:-1 tvg-id="AstroRia" group-title="Astro",Astro Ria
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="Astro",Astro Ria
 http://foctv.xyz:25510/548859/585898/23
-#EXTINF:-1 tvg-id="AstroRia" group-title="Astro",Astro Ria (B)
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria (B)" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="Astro",Astro Ria (B)
 http://foctv.xyz:25510/548859/585898/224
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
@@ -54,14 +54,14 @@ http://foctv.xyz:25510/548859/585898/224
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1000
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
-#EXTINF:-1 tvg-id="ext" group-title="Astro",Astro Prima
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="Astro",Astro Prima
 http://foctv.xyz:25510/548859/585898/21
 
 #EXTINF:-1 tvg-id="DramaSangat" group-title="Online TV" ch-number="105" tvg-logo="https://aqfadtv.xyz/logos/DramaSangatWhite.png",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 # https://aqfadtv.astradamy.com/stream/DramaSangat.php
 
-#EXTINF:-1 tvg-id="ext" group-title="MYBasic",Drama Sangat
+#EXTINF:-1 tvg-id="DramaSangat" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/sgf8zg9/dramasngt.png" group-title="Online TV",Drama Sangat
 http://foctv.xyz:25510/548859/585898/13
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" ch-number="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",106 Astro Oasis
@@ -69,7 +69,7 @@ http://foctv.xyz:25510/548859/585898/13
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2505
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroOasis" group-title="Astro",Astro Oasis
+#EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="Astro",Astro Oasis
 http://foctv.xyz:25510/548859/585898/18
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
@@ -78,11 +78,11 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna (Backup)
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro",Astro Warna (A)
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna (A)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Astro",Astro Warna (A)
 http://foctv.xyz:25510/548859/585898/297
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro",Astro Warna (C)
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna (C)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Astro",Astro Warna (C)
 http://foctv.xyz:25510/548859/585898/24
-#EXTINF:-1 tvg-id="AstroWarna" group-title="Astro",Astro Warna (B)
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna (B)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Astro",Astro Warna (B)
 http://foctv.xyz:25510/548859/585898/25
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
@@ -94,55 +94,55 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra (Backup)
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro",Astro Citra
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="Astro",Astro Citra
 http://foctv.xyz:25510/548859/585898/26
-#EXTINF:-1 tvg-id="AstroCitra" group-title="Astro",Astro Citra(B)
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra(B)" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="Astro",Astro Citra(B)
 http://foctv.xyz:25510/548859/585898/27
 
 
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Rompak
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Rompak" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Rompak
 http://foctv.xyz:25510/548859/585898/951
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- 7 Hari Sebelum Kahwin
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- 7 Hari Sebelum Kahwin" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- 7 Hari Sebelum Kahwin
 http://foctv.xyz:25510/548859/585898/950
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- 3 Janda Melawan Dunia
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- 3 Janda Melawan Dunia" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- 3 Janda Melawan Dunia
 http://foctv.xyz:25510/548859/585898/942
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- 35MM
+#EXTINF:-1 tvg-id="IMC" tvg-name="Astro First- 35MM" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- 35MM
 http://foctv.xyz:25510/548859/585898/940
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Rajawali (mkv)
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Rajawali (mkv)" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Rajawali (mkv)
 http://foctv.xyz:25510/548859/585898/676
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Rajawali
+#EXTINF:-1 tvg-id="Rajawali" tvg-name="Astro First- Rajawali" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Rajawali
 http://foctv.xyz:25510/548859/585898/675
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Rumah
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Rumah" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Rumah
 http://foctv.xyz:25510/548859/585898/664
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Jaga-Jaga Senariounion
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Jaga-Jaga Senariounion" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Jaga-Jaga Senariounion
 http://foctv.xyz:25510/548859/585898/574
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First-The Disappearance of Irdina Adhwa
+#EXTINF:-1 tvg-id="" tvg-name="Astro First-The Disappearance of Irdina Adhwa" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First-The Disappearance of Irdina Adhwa
 http://foctv.xyz:25510/548859/585898/569
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Gila Gusti
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Gila Gusti" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Gila Gusti
 http://foctv.xyz:25510/548859/585898/568
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Autumn In Wales
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Autumn In Wales" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Autumn In Wales
 http://foctv.xyz:25510/548859/585898/567
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Renjana
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Renjana" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Renjana
 http://foctv.xyz:25510/548859/585898/566
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Kabus
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kabus" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Kabus
 http://foctv.xyz:25510/548859/585898/564
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Kedai Antik Wak Jambi
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kedai Antik Wak Jambi" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Kedai Antik Wak Jambi
 http://foctv.xyz:25510/548859/585898/563
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Kg Pisang Berbuah Dua Kali
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Kg Pisang Berbuah Dua Kali" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Kg Pisang Berbuah Dua Kali
 http://foctv.xyz:25510/548859/585898/551
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Hantu Kuat Ketawa
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Kuat Ketawa" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Hantu Kuat Ketawa
 http://foctv.xyz:25510/548859/585898/535
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Hantu Mok Joh
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Hantu Mok Joh" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Hantu Mok Joh
 http://foctv.xyz:25510/548859/585898/534
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Marabahaya Underground
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Marabahaya Underground" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Marabahaya Underground
 http://foctv.xyz:25510/548859/585898/497
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First- Serangan Pocong
+#EXTINF:-1 tvg-id="" tvg-name="Astro First- Serangan Pocong" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Serangan Pocong
 http://foctv.xyz:25510/548859/585898/496
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First - Siapa Tutup Lampu?
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Siapa Tutup Lampu?" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First - Siapa Tutup Lampu?
 http://foctv.xyz:25510/548859/585898/495
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First - Hantu Ke Lima
+#EXTINF:-1 tvg-id="" tvg-name="Astro First - Hantu Ke Lima" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First - Hantu Ke Lima
 http://foctv.xyz:25510/548859/585898/472
-#EXTINF:-1 tvg-id="ext" group-title="ASTRO FIRST",Astro First -Penunggang Agama 2
+#EXTINF:-1 tvg-id="" tvg-name="Astro First -Penunggang Agama 2" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First -Penunggang Agama 2
 http://foctv.xyz:25510/548859/585898/354
 
 
@@ -161,7 +161,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/608
 http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
-#EXTINF:1 tvg-id="AstroRania" group-title="MYBasic",Astro Rania
+#EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania" tvg-logo="https://i.ibb.co/Qb0vSRX/rania.png" group-title="Indonesian Astro",Astro Rania
 http://foctv.xyz:25510/548859/585898/29
 
 #EXTINF:-1 tvg-id="AstroAura" group-title="Indonesian Astro" ch-number="113" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
@@ -169,7 +169,7 @@ http://foctv.xyz:25510/548859/585898/29
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/609
 http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
-#EXTINF:-1 tvg-id="AstroAura" group-title="MYBasic CH",Astro Aura
+#EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura" tvg-logo="https://i.ibb.co/YbNWSYK/aura.png" group-title="Indonesian Astro",Astro Aura
 http://foctv.xyz:25510/548859/585898/28
 
 #EXTINF:-1 group-title="Unifi CH" ch-number="113" tvg-id="113" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",113 Salam HD
@@ -182,7 +182,7 @@ https://live.astradamy.com/unifitv/salam/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1113
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVAlhijrah" group-title="MYBasic CH",Alhijrah
+#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/7bWBVPC/liu.png" group-title="YBasic CH",Alhijrah
 http://foctv.xyz:25510/548859/585898/14
 
 #EXTINF:-1 tvg-id="ColorsHD" group-title="Indian" ch-number="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png",116 Colors HD
@@ -221,13 +221,13 @@ https://agsplayback01.astro.com.my/CH2/master_MYTVGOSHOP4_03.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5021
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_primary.mpd
 
-#EXTINF:0 tvg-id="TVS.pl" group-title="MYBasic CH",TVS
+#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://i.ibb.co/3T4Twcg/TVS.png" group-title="MYBasic CH",TVS
 http://foctv.xyz:25510/548859/585898/214
 
 #EXTINF:-1 tvg-id="AwesomeTV" ch-number="123" group-title="MYBasic CH" tvg-logo="https://aqfadtv.astradamy.com/logos/AwesomeTVWhite.png",123 Awesome TV
 https://onedrive.aqfadtv.xyz/api/raw/?path=/awesome.mp4&raw=true
 
-#EXTINF:1 tvg-id="AwesomeTV" group-title="MYBasic CH",Awesome TV
+#EXTINF:-1 tvg-id="AwesomeTV" tvg-name="Awesome TV" tvg-logo="https://i.ibb.co/4Yk4xvz/awe.png" group-title="MYBasic CH",Awesome TV
 http://foctv.xyz:25510/548859/585898/387
 
 #EXTINF:-1 tvg-id="BERITARTM" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Berita_RTM_v2.png/revision/latest?cb=20210504031757",123 Berita RTM
@@ -255,30 +255,30 @@ https://live.astradamy.com/unifitv/pesona/index.mpd
 # https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd
 https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd
 
-#EXTINF:-1 tvg-id="OKEY" group-title="MYBasic CH",Okey
+#EXTINF:-1 tvg-id="OKEY" tvg-name="Okey" tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="MYBasic CH",Okey
 http://foctv.xyz:25510/548859/585898/12
 
 #EXTINF:-1 tvg-id="DidikTVKPM" ch-number="147" group-title="MYBasic CH" tvg-logo="https://didik.tv/images/logotv2.png",147 DidikTV KPM
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8
 # https://aqfadtv.astradamy.com/stream/DidikTVKPM.php
 
-#EXTINF:-1 tvg-id="DidikTVKPM" group-title="MYBasic CH",DidikTV KPM
+#EXTINF:-1 tvg-id="DidikTVKPM" tvg-name="NTV7" tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png" group-title="MYBasic CH",DidikTV KPM
 http://foctv.xyz:25510/548859/585898/8
 
 #EXTINF:-1 tvg-id="8TV" ch-number="148" group-title="MYBasic CH" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/115_144.png",148 8TV 
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 # https://unifi-live02.secureswiftcontent.com/UnifiSD/live02.mpd
 
-#EXTINF:-1 tvg-id="8TV.pl" group-title="MyBasic CH",8TV
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" tvg-logo="https://i.ibb.co/BKdBNyc/8tv.png" group-title="MYBasic CH",8TV
 http://foctv.xyz:25510/548859/585898/9
 
 #EXTINF:-1 tvg-id="TV9" ch-number="149" group-title="MYBasic CH" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202202/20220217/20220217003547137q8t.png",149 TV9
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8
 # https://aqfadtv.astradamy.com/stream/TV9.php
 
-#EXTINF:-1 tvg-id="TV9" group-title="MYBasic CH",TV9
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="MYBasic CH",TV9
 http://foctv.xyz:25510/548859/585898/10
-#EXTINF:-1 tvg-id="TV9" group-title="MYBasic CH",TV9(B)
+#EXTINF:-1 tvg-id="TV9" tvg-name="TV9(B)" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="MYBasic CH",TV9(B)
 http://foctv.xyz:25510/548859/585898/11
 
 #EXTINF:-1 group-title="Unifi CH" ch-number="151" tvg-id="151" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/2019071607335626707k.png",151 Laku Mall HD
@@ -481,7 +481,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2702/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1002
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1002/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Ohk" group-title="Korean",OhK!
+#EXTINF:-1 tvg-id="OhK" tvg-name="OhK! " tvg-logo="https://i.ibb.co/LdFPBV6/1644988850802.png" group-title="Korean",OhK! 
 http://foctv.xyz:25510/548859/585898/516
 
 #EXTINF:-1 tvg-id="tvN" ch-number="395" group-title="Korean" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/190_144.png",395 tvN HD
@@ -518,9 +518,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2407
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2407/default_primary.mpd
 
-#EXTINF:-1 tvg-id="BOO" group-title="Movies",Astro BOO (M)
+#EXTINF:-1 tvg-id="BOO" tvg-name="Astro BOO (M)" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="Movies",Astro BOO (M)
 http://foctv.xyz:25510/548859/585898/248
-#EXTINF:-1 tvg-id="BOO" group-title="Movies",Astro BOO (ENG)
+#EXTINF:-1 tvg-id="BOO" tvg-name="Astro BOO (ENG)" tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="Movies",Astro BOO (ENG)
 http://foctv.xyz:25510/548859/585898/33
 
 #EXTINF:-1 tvg-id="HBO" ch-number="411" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122",411 HBO
@@ -602,56 +602,7 @@ http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/11511.m3u8
 http://skylogic.site:8080/live/Unplugged83/F75DCxx397DMKop5388mM/2359.m3u8
 
 
-#EXTINF:-1 tvg-id="HBO" group-title="Movies",HBO FHD
-http://foctv.xyz:25510/548859/585898/517
-#EXTINF:-1 tvg-id="HBO" group-title="Movies",HBO (M)
-http://foctv.xyz:25510/548859/585898/54
-#EXTINF:-1 tvg-id="ext" group-title="Movies",HBO (ID)
-http://foctv.xyz:25510/548859/585898/346
-#EXTINF:-1 tvg-id="HBOHits1" group-title="MMovies",HBO Hits
-http://foctv.xyz:25510/548859/585898/55
-#EXTINF:-1 tvg-id="Hbofamily.br" group-title="Movies",HBO Family
-http://foctv.xyz:25510/548859/585898/56
-#EXTINF:-1 tvg-id="HBOSignature.mx" group-title="Movies",HBO Signature
-http://foctv.xyz:25510/548859/585898/57
-#EXTINF:-1 tvg-id="ext" group-title="Movies",SHOWCASE MOVIES
-http://foctv.xyz:25510/548859/585898/419
-#EXTINF:-1 tvg-id="ext" group-title="Movies",MyCinema
-http://foctv.xyz:25510/548859/585898/414
-#EXTINF:-1 tvg-id="ext" group-title="Movies",MyCinema Asia
-http://foctv.xyz:25510/548859/585898/415
-#EXTINF:-1 tvg-id="ext" group-title="Movies",MyFamily Cinema
-http://foctv.xyz:25510/548859/585898/416
-#EXTINF:-1 tvg-id="ext" group-title="Movies",&Flix HD
-http://foctv.xyz:25510/548859/585898/141
-#EXTINF:-1 tvg-id="priveHD.in" group-title="Movies",&Prive HD
-http://foctv.xyz:25510/548859/585898/63
-#EXTINF:-1 tvg-id="StarMovies.in" group-title="Movies",Star Movies (FHD)
-http://foctv.xyz:25510/548859/585898/220
-#EXTINF:-1 tvg-id="ext" group-title="Movies",Star Movie Select (Testing)
-http://foctv.xyz:25510/548859/585898/221
-#EXTINF:-1 tvg-id="SonyPIX.in" group-title="Movies",SONY Pix (FHD)
-http://foctv.xyz:25510/548859/585898/223
-#EXTINF:-1 tvg-id="ext" group-title="Movies",MNX HD (FHD)
-http://foctv.xyz:25510/548859/585898/222
-#EXTINF:-1 tvg-id="CinemaxO.mx" group-title="Movies",Cinemax
-http://foctv.xyz:25510/548859/585898/65
-#EXTINF:-1 tvg-id="galaxy" group-title="Movies",Galaxy
-http://foctv.xyz:25510/548859/585898/66
-#EXTINF:-1 tvg-id="ext" group-title="Movies",Galaxy Premium
-http://foctv.xyz:25510/548859/585898/67
-#EXTINF:-1 tvg-id="ext" group-title="Movies",HITS Movies
-http://foctv.xyz:25510/548859/585898/68
-#EXTINF:-1 tvg-id="ext" group-title="Movies",CinemaWorld
-http://foctv.xyz:25510/548859/585898/69
-#EXTINF:-1 tvg-id="ext" group-title="Movies",Thrill
-http://foctv.xyz:25510/548859/585898/70
-#EXTINF:-1 tvg-id="ext" group-title="Movies",IMC
-http://foctv.xyz:25510/548859/585898/71
-#EXTINF:-1 tvg-id="ext" group-title="Movies",Flik
-http://foctv.xyz:25510/548859/585898/72
-#EXTINF:-1 tvg-id="ext" group-title="Movies",Bioskop Indonesia
-http://foctv.xyz:25510/548859/585898/73
+
 
 
 #EXTINF:-1 tvg-id="CHN" group-title="Korean" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210930/20210930172146349qec.png" ch-number="463",463 Arirang TV
@@ -690,9 +641,9 @@ https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0mY29udGV4dFR5cGU9bm9uZSZpZD0xMzQxMDMxMiIsImFjY291bnRfaWQiOjMwODk2MzMsImNvbnRlbnRfaWQiOiI0ZmMxMTJmOV8yYTlmXzRlYjlfODlhMV9iZDc4MGQzZTNkZTYiLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TXpJd09Yd0hVeHQ1eHl6UWd2eGZNRWRZQWgwN2t5NGpoaG5OYWRuTkpJWkhBYjJXSnhvNmRIN09qQjM1VFdmVkxFUU5yV2xtM2F4TXBIQThuckVWeTZxYUJ6S0JTYzRNcTVJdVd1a3JHOXdvZ1ExY3B0SFl0UlQ5c3pOS0RtMnV3ZzJ6OTRfZGtwZERMMWd1OE5PTkt0OG1aTHdERGx0U1JaOU9QREtjRU52U3JMMDl0Vkp4Y3VCRnFJNW9ZY1lWUWhYbVZGZG1VWUQwSzh0NEdxNHlzNGkweGs3ME1ZMkFOYW1idXBEUzAzV0VYZmtVXy1sSDhyQ242V0RJb01UR1lVWTBHLXo2WmIyTXd1TmMyVFpIVEpTcml6ZW5VZnJ0bGpmckNuc1c5b3R6ZkVuQUJLSnd0WXZVRmlXMl9lN1QyRUJYbGpQMC1MdFNFSW42UDVKSE1fbFlGbEo3WDRMSi00SVBoWFYyX19hNUk3c2xDOHl2XzRNNUVZY1F4eDM2b1BjcXF5Y0xPcDNuRzN1T29BQkJ3aFlPQmVwd0F3bFBJWVl1eUxpSkxRVHltV2psQWJmWW9zUzhldV9jai02QUhYVVJjOFdtTnQ4ajgtd0h6SWFhS3RhWF9FSTdIeDVHUDY0Mk5lbWhCc3hPemxZR0pnPT0iLCJ1ZGlkIjoiMGM2ZWI4NmMtMDBjZi00MzExLWJiMGUtZGUxZmYyMTg0ZTdlX1dFQi01YTBhOWRhNy1lZjY0LWFhZGMtYzkzNS04ZTIwNDg1YTM2NDgiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjMyMDl9&signature=lzsXj4IZ3jefXEvcomutDkVqAlk%3d&sessionId=b06df4ce-97e4-63cc-ddc7-1e6e35e8f4b5:b1fa9583-b657-d2a4-a1f9-a019fe872d8c&clientTag=html5:v2.0.0&referrer=aHR0cHM6Ly9zb29rYS5teS9lbi9wbGF5Ly1sLS1hd2FuaS03LTQ1LzExMDM2MzIvcGxheWVyP2xpbmVhcklkPTEwMDE0NjQ4MCZpc0xpdmU9dHJ1ZQ==
 https://linear03-playback.sooka.my/CH5/masterCH5.mpd
 
-#EXTINF:-1 tvg-id="AstroAwani" group-title="News",Astro Awani
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani" tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" group-title="News",Astro Awani
 http://foctv.xyz:25510/548859/585898/16
-#EXTINF:-1 tvg-id="AstroAwani" group-title="News",Astro Awani(B)
+#EXTINF:-1 tvg-id="AstroAwani" tvg-name="Astro Awani(B)" tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" group-title="News",Astro Awani(B)
 http://foctv.xyz:25510/548859/585898/17
 
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA  
@@ -700,7 +651,7 @@ http://foctv.xyz:25510/548859/585898/17
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1114
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
 
-#EXTINF:-1 tvg-id="BernamaTV" group-title="News",Astro Bernama
+#EXTINF:-1 tvg-id="BernamaTV" tvg-name="Astro Bernama" tvg-logo="https://i.ibb.co/3pLZ1gF/dfrh.png" group-title="News",Astro Bernama
 http://foctv.xyz:25510/548859/585898/15
 
 #EXTINF:-1 tvg-id="BernamaTV" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png",502 BERNAMA (HD) 
@@ -771,29 +722,29 @@ https://live.astradamy.com/unifitv/travelchannel/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/9985
 http://linearjitp-playback.astro.com.my/dash-wv/linear/9985/default_ott.mpd
 
-#EXTINF:-1 tvg-id="NET.id" group-title="IndonesiaTV",NET.
+#EXTINF:-1 tvg-id="NET.id" tvg-name="NET." tvg-logo="https://i.ibb.co/WvDtNK1/hm.png" group-title="IndonesiaTV",NET.
 http://foctv.xyz:25510/548859/585898/41
-#EXTINF:-1 tvg-id="ANTV" group-title="IndonesiaTV",ANTV
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://i.ibb.co/42Q1zYD/cg.png" group-title="IndonesiaTV",ANTV
 http://foctv.xyz:25510/548859/585898/42
-#EXTINF:-1 tvg-id="indosiar.id" group-title="IndonesiaTV",INDOSIAR
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="IndonesiaTV",INDOSIAR
 http://foctv.xyz:25510/548859/585898/36
-#EXTINF:-1 tvg-id="TransTV.id" group-title="IndonesiaTV",TRANS TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="IndonesiaTV",TRANS TV
 http://foctv.xyz:25510/548859/585898/34
-#EXTINF:-1 tvg-id="Trans7.id" group-title="IndonesiaTV",TRANS 7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="IndonesiaTV",TRANS 7
 http://foctv.xyz:25510/548859/585898/35
-#EXTINF:-1 tvg-id="SCTV.id" group-title="IndonesiaTV",SCTV
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="IndonesiaTV",SCTV
 http://foctv.xyz:25510/548859/585898/37
-#EXTINF:-1 tvg-id="MNCTV.id" group-title="IndonesiaTV",MNCTV
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="IndonesiaTV",MNCTV
 http://foctv.xyz:25510/548859/585898/40
-#EXTINF:-1 tvg-id="RCTI.id" group-title="IndonesiaTV",RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI" tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="IndonesiaTV",RCTI
 http://foctv.xyz:25510/548859/585898/38
-#EXTINF:-1 tvg-id="GTV.id" group-title="IndonesiaTV",GTV
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV" tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="IndonesiaTV",GTV
 http://foctv.xyz:25510/548859/585898/39
-#EXTINF:-1 tvg-id="TVRI.id" group-title="IndonesiaTV",TVRI
+#EXTINF:-1 tvg-id="" tvg-name="TVRI.id" tvg-logo="https://i.ibb.co/vQwqWFS/TVRI.png" group-title="IndonesiaTV",TVRI
 http://foctv.xyz:25510/548859/585898/208
-#EXTINF:-1 tvg-id="RTV" group-title="IndonesiaTV",RTV
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="IndonesiaTV",RTV
 http://foctv.xyz:25510/548859/585898/210
-#EXTINF:-1 tvg-id="ext" group-title="IndonesiaTV",O Channel
+#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://i.ibb.co/H2vk3k7/1642736150726.png" group-title="IndonesiaTV",O Channel
 http://foctv.xyz:25510/548859/585898/512
 
 
@@ -857,9 +808,9 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/2606
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
-#EXTINF:-1 tvg-id="AstroCeria" group-title="Kids",Astro Ceria
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria" tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="Kids",Astro Ceria
 http://foctv.xyz:25510/548859/585898/19
-#EXTINF:-1 tvg-id="AstroCeria" group-title="Kids",Astro Ceria(B)
+#EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria(B)" tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="Kids",Astro Ceria(B)
 http://foctv.xyz:25510/548859/585898/20
 
 #EXTINF:-1 tvg-id="TA-DAA!" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/432_144.png" ch-number="612",612 TA-DAA!
@@ -1533,6 +1484,151 @@ https://onedrive.astradamy.com/api?path=/TVSeries/Gegar.Vaganza/S8.2021/Gegar.Va
 
 #EXTINF:-1 type="series" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_JXDOR_IVP_LAND_432x243_2022124_3571.jpg" group-title="Gegar Vaganza S8",Minggu Akhir
 https://onedrive.astradamy.com/api?path=/TVSeries/Gegar.Vaganza/S8.2021/Gegar.Vaganza.S08E10.1080p.WEB-DL-PENCURiMOViE.CYOU.mkv&raw=true&type=file.mp4
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic World Dominion (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg" group-title="MIX",Jurassic World Dominion (2022)
+http://foctv.xyz:25510/movie/548859/585898/949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Man From Toronto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTCfTibqtk4f90cC59bLPMOmsfc.jpg" group-title="MIX",The Man From Toronto (2022)
+http://foctv.xyz:25510/movie/548859/585898/948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Code Name Banshee (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dt53jhcegkYu2hKcE4tAdnbpBzt.jpg" group-title="MIX",Code Name Banshee (2022)
+http://foctv.xyz:25510/movie/548859/585898/943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="RRR (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncXklBeNi7X7OETqmDVEgaf8ItQ.jpg" group-title="MIX",RRR (2022)
+http://foctv.xyz:25510/movie/548859/585898/946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Woodland Grey (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6M9tPA9Y6SsdcHSpc08pt0a0lYA.jpg" group-title="MIX",Woodland Grey (2022)
+http://foctv.xyz:25510/movie/548859/585898/944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crimes of the Future (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSx6t4mj1FT4ePqPYHW287SmNa1.jpg" group-title="MIX",Crimes of the Future (2022)
+http://foctv.xyz:25510/movie/548859/585898/945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hot Blooded (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81D9Cvl8JbMJixD9ii9puwqyXK4.jpg" group-title="MIX",Hot Blooded (2022)
+http://foctv.xyz:25510/movie/548859/585898/947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Doctor Strange in the Multiverse of Madness (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Gtg2DzBhmYamXBS1hKAhiwbBKS.jpg" group-title="MIX",Doctor Strange in the Multiverse of Madness (2022)
+http://foctv.xyz:25510/movie/548859/585898/932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ip Man: The Awakening (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7vhdyGrpPMKXsuFBZzxmave94F.jpg" group-title="MIX",Ip Man: The Awakening (2022)
+http://foctv.xyz:25510/movie/548859/585898/933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="9 Bullets (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuFPxoFopAjFUz4oIMUzpzeTA8I.jpg" group-title="MIX",9 Bullets (2022)
+http://foctv.xyz:25510/movie/548859/585898/934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rooftop (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxqI0d9BbYSQVG3K87XEX4XsE2P.jpg" group-title="MIX",Rooftop (2022)
+http://foctv.xyz:25510/movie/548859/585898/935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rising Boas in a Girl's School (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xR7gW2Oj8Qku5m82SvWfwTbwopM.jpg" group-title="MIX",Rising Boas in a Girl's School (2022)
+http://foctv.xyz:25510/movie/548859/585898/936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Siege of Robin Hood (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2hLfrdvZNaF8iUk5n4wVQ7C9w6P.jpg" group-title="MIX",The Siege of Robin Hood (2022)
+http://foctv.xyz:25510/movie/548859/585898/937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spiderhead (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7COPO5B9AOKIB4sEkvNu0wfve3c.jpg" group-title="MIX",Spiderhead (2022)
+http://foctv.xyz:25510/movie/548859/585898/938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Overnight (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95zIxo8qFRpsDyBm0KztVezBn4f.jpg" group-title="MIX",The Overnight (2022)
+http://foctv.xyz:25510/movie/548859/585898/686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Last Seen Alive (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzQ9YUXH9Tfj8MDU66i4wSFrBvt.jpg" group-title="MIX",Last Seen Alive (2022)
+http://foctv.xyz:25510/movie/548859/585898/687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Father Stu (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg" group-title="MIX",Father Stu (2022)
+http://foctv.xyz:25510/movie/548859/585898/679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Girl on a Bulldozer (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8YNpBRuAMIp5Z7YrRdxyugNZ8vU.jpg" group-title="MIX",The Girl on a Bulldozer (2022)
+http://foctv.xyz:25510/movie/548859/585898/680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Eraser: Reborn (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWE48knKsaPGqVoANXoWraiub2d.jpg" group-title="MIX",Eraser: Reborn (2022)
+http://foctv.xyz:25510/movie/548859/585898/681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emergency (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1OVtVtcC7KQlsueXCwBSRaAR1o.jpg" group-title="MIX",Emergency (2022)
+http://foctv.xyz:25510/movie/548859/585898/682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Baby Blues (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v0hASMPoTlwqw4gD0CZLI6SbVuY.jpg" group-title="MIX",Baby Blues (2022)
+http://foctv.xyz:25510/movie/548859/585898/683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ben & Jody (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTFsONSTWoFFXZD9ojLLYgGg4TB.jpg" group-title="MIX",Ben & Jody (2022)
+http://foctv.xyz:25510/movie/548859/585898/684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wolf Hound (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6sMnY4fEVAfdadhANhGnNckxsmx.jpg" group-title="MIX",Wolf Hound (2022)
+http://foctv.xyz:25510/movie/548859/585898/685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heropanti 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfKTqIwMRYblzesiidC91E1g5Cf.jpg" group-title="MIX",Heropanti 2 (2022)
+http://foctv.xyz:25510/movie/548859/585898/678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Heropanti (2014)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvnAQp723mxFtrf8FPjMU26QkIW.jpg" group-title="MIX",Heropanti (2014)
+http://foctv.xyz:25510/movie/548859/585898/677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fantastic Beasts: The Secrets of Dumbledore (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrgifaYeUtTnaH7NF5Drkgjg2MB.jpg" group-title="MIX",Fantastic Beasts: The Secrets of Dumbledore (2022)
+http://foctv.xyz:25510/movie/548859/585898/672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blacklight (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bv9dy8mnwftdY2j6gG39gCfSFpV.jpg" group-title="MIX",Blacklight (2022)
+http://foctv.xyz:25510/movie/548859/585898/673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uncharted (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tlZpSxYuBRoVJBOpUrPdQe9FmFq.jpg" group-title="MIX",Uncharted (2022)
+http://foctv.xyz:25510/movie/548859/585898/671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Aviary (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u6HUQcOQsgkFFO8xCITfxQz6ivc.jpg" group-title="MIX",The Aviary (2022)
+http://foctv.xyz:25510/movie/548859/585898/665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lost City (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/neMZH82Stu91d3iqvLdNQfqPPyl.jpg" group-title="MIX",The Lost City (2022)
+http://foctv.xyz:25510/movie/548859/585898/666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Man of God (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icx3Cu6ktIXgr5o2WOeekEFRCdM.jpg" group-title="MIX",The Man of God (2022)
+http://foctv.xyz:25510/movie/548859/585898/667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Privilege (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBLi3Nd5JMQGMiOmmfuPgLw5SzD.jpg" group-title="MIX",The Privilege (2022)
+http://foctv.xyz:25510/movie/548859/585898/668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Sky Is Everywhere (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qMVUlq6rdqFo1xZ5ozQcKFCDbgj.jpg" group-title="MIX",The Sky Is Everywhere (2022)
+http://foctv.xyz:25510/movie/548859/585898/669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Takedown (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5hVeCfYSb8gIO0F41gqidtb0AI.jpg" group-title="MIX",The Takedown (2022)
+http://foctv.xyz:25510/movie/548859/585898/670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Batman (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="MIX",The Batman (2022)
+http://foctv.xyz:25510/movie/548859/585898/658.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sonic the Hedgehog 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg" group-title="MIX",Sonic the Hedgehog 2 (2022)
+http://foctv.xyz:25510/movie/548859/585898/657.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Mark (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sdX4qg9cKX4satMaQm8BOJxnDC3.jpg" group-title="MIX",The Last Mark (2022)
+http://foctv.xyz:25510/movie/548859/585898/660.mp4
+#EXTINF:-1 tvg-id="" tvg-name="K.G.F: Chapter 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27aj5OW1AkFTCb7vlWUaTpDjUwb.jpg" group-title="MIX",K.G.F: Chapter 2 (2022)
+http://foctv.xyz:25510/movie/548859/585898/637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="No Exit (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cnLoWq9o5tuLe1Zq4BTX4LwZ2B.jpg" group-title="MIX",No Exit (2022)
+http://foctv.xyz:25510/movie/548859/585898/650.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Escape the Field (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3qDumKWwi3YZacMI9u2UoPHWVDi.jpg" group-title="MIX",Escape the Field (2022)
+http://foctv.xyz:25510/movie/548859/585898/644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Man Called Hero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hHenEb0Pv9DzxuPFFqbKqWMNArz.jpg" group-title="MIX",A Man Called Hero (2022)
+http://foctv.xyz:25510/movie/548859/585898/638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Project Gemini (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aVLV38txajXhEy2qNEClPIsDbAH.jpg" group-title="MIX",Project Gemini (2022)
+http://foctv.xyz:25510/movie/548859/585898/652.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agent Game (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXJFjgcV7ESRHUSxZiBA4PzRMIx.jpg" group-title="MIX",Agent Game (2022)
+http://foctv.xyz:25510/movie/548859/585898/639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ambulance (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zT5ynZ0UR6HFfWQSRf2uKtqCyWD.jpg" group-title="MIX",Ambulance (2022)
+http://foctv.xyz:25510/movie/548859/585898/640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Breath (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAeNb2twaWdY7YnQ8xpqCA2UkBF.jpg" group-title="MIX",Breath (2022)
+http://foctv.xyz:25510/movie/548859/585898/641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Catch the Fair One (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/35QvPu5nOGlzDIGOdvtRNNkfjLZ.jpg" group-title="MIX",Catch the Fair One (2022)
+http://foctv.xyz:25510/movie/548859/585898/642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Choose or Die (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEHZjZmpcQF2Z9tJfWuPNZzof8j.jpg" group-title="MIX",Choose or Die (2022)
+http://foctv.xyz:25510/movie/548859/585898/643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Firestarter (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2MTGip0nfahQ1jPQCZSfCsPBZes.jpg" group-title="MIX",Firestarter (2022)
+http://foctv.xyz:25510/movie/548859/585898/646.mp4
+#EXTINF:-1 tvg-id="" tvg-name="I Want You Back (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mljQydSPAmyshvq1WHKveNfDLeC.jpg" group-title="MIX",I Want You Back (2022)
+http://foctv.xyz:25510/movie/548859/585898/647.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Into the Wind (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2lylZT9Czehopiln1D9hc1Bb84.jpg" group-title="MIX",Into the Wind (2022)
+http://foctv.xyz:25510/movie/548859/585898/648.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Morbius (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h4WLN3cmEjCsH1fNGRfvGV6IPBX.jpg" group-title="MIX",Morbius (2022)
+http://foctv.xyz:25510/movie/548859/585898/649.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Our Father (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5uxxdvQebVbdD1AZfGff9CMmcQH.jpg" group-title="MIX",Our Father (2022)
+http://foctv.xyz:25510/movie/548859/585898/651.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Restless (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9MP21x0OPv0R72obd63tMHssmGt.jpg" group-title="MIX",Restless (2022)
+http://foctv.xyz:25510/movie/548859/585898/653.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The King's Man (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nj5HmHRZsrYQEYYXyAusFv35erP.jpg" group-title="MIX",The King's Man (2021)
+http://foctv.xyz:25510/movie/548859/585898/654.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg" group-title="MIX",Spider-Man: No Way Home (2021)
+http://foctv.xyz:25510/movie/548859/585898/645.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Room 203 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t4M0n5kfToiU9TIf22bccSbNugG.jpg" group-title="MIX",Room 203 (2022)
+http://foctv.xyz:25510/movie/548859/585898/655.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Shut In (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5ug4LyLQFeR6azAJyIPBQz5ur9.jpg" group-title="MIX",Shut In (2022)
+http://foctv.xyz:25510/movie/548859/585898/656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vampirus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u5i3jbyc2U2u2hz2g7kgBksbzJE.jpg" group-title="MIX",Vampirus (2022)
+http://foctv.xyz:25510/movie/548859/585898/659.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The In Between (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7RcyjraM1cB1Uxy2W9ZWrab4KCw.jpg" group-title="MIX",The In Between (2022)
+http://foctv.xyz:25510/movie/548859/585898/661.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Cellar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtfGeS5WMXA6PtikIYUmYTSbVdg.jpg" group-title="MIX",The Cellar (2022)
+http://foctv.xyz:25510/movie/548859/585898/662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gasoline Alley (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtfGeS5WMXA6PtikIYUmYTSbVdg.jpg" group-title="MIX",Gasoline Alley (2022)
+http://foctv.xyz:25510/movie/548859/585898/614.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The Monkey King: The Legend Begins (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EaMMsKs0g6gucK9dJwo1B5BOGn.jpg" group-title="MIX",The Monkey King: The Legend Begins (2022)
+http://foctv.xyz:25510/movie/548859/585898/626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Special Delivery (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6v1N2SBhaF8lTBgsjfTAgVmS5q9.jpg" group-title="MIX",Special Delivery (2022)
+http://foctv.xyz:25510/movie/548859/585898/627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Beneath the Surface (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8ZjxIJci0H6FYybeuPbPYSCf3A.jpg" group-title="MIX",Beneath the Surface (2022)
+http://foctv.xyz:25510/movie/548859/585898/628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Along for the Ride (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d5spmLeGR9kxBRQ6qxCFad1ljvT.jpg" group-title="MIX",Along for the Ride (2022)
+http://foctv.xyz:25510/movie/548859/585898/629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Against the Ice (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FSGYvPEhIx3ThOikGqHmKxeyNN.jpg" group-title="MIX",Against the Ice (2022)
+http://foctv.xyz:25510/movie/548859/585898/630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mystery of Marilyn Monroe: The Unheard Tapes (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDbucWgDqo0Huyenjo3l3rjqm0C.jpg" group-title="MIX",The Mystery of Marilyn Monroe: The Unheard Tapes (2022)
+http://foctv.xyz:25510/movie/548859/585898/631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Matrix Resurrections (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8c4a8kE7PizaGQQnditMmI1xbRp.jpg" group-title="MIX",The Matrix Resurrections (2021)
+http://foctv.xyz:25510/movie/548859/585898/632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="New Kung Fu Cult Master 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s94AGikcoJyXygw8IGZcyucylk1.jpg" group-title="MIX",New Kung Fu Cult Master 2 (2022)
+http://foctv.xyz:25510/movie/548859/585898/633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Merindu Cahaya De Amstel (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dBC8AO5bYrQtZnMQTpedK9UJPdL.jpg" group-title="MIX",Merindu Cahaya De Amstel (2022)
+http://foctv.xyz:25510/movie/548859/585898/634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dipulangkan Kasihnya" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioKIfgY5TO2ayyVGSfWdJB0b7bTQNt4k20T_f-ySBstspIibVEOist_cSaR02d4b68rKCkQ76UcYfh2_OgAgwrKvVUoVvxaFiFcnZsm7fxu23cKOGFEOhavvl8upXV966g-EvWtYlBALJQnu6YTN38tYhDrliVHYF14ag2R9kB2GyocuhXxAXL-aKk/w1200-h630-p-k-no-nu/raya.jpg" group-title="MALAY",Dipulangkan Kasihnya
+http://foctv.xyz:25510/movie/548859/585898/674.mp4
+
 
 
 
