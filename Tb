@@ -5,9 +5,9 @@ EXTM3U
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/711
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 (A)" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MYBasic CH",TV1 (FHD)
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 (A)" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MYBasic CH",TV1 (A)
 http://foctv.xyz:25510/548859/585898/2
-#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 (B)" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" 
+#EXTINF:-1 tvg-id="TV1" tvg-name="TV1 (B)" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MYBasic CH",TV1 (B)
 http://iptv12k.com:35461/80301070602/456776/6505
 
 #EXTINF:-1 tvg-id="TV2" group-title="MYBasic CH" ch-number="102" tvg-logo="https://aqfadtv.astradamy.com/logos/TV2.png",102 TV2
