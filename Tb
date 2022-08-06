@@ -6,7 +6,7 @@ EXTM3U
 https://linearjitp-playback.astro.com.my/dash-wv/linear/711/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 (A)" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MYBasic CH",TV1 (A)
-http://foctv.xyz:25510/548859/585898/2
+http://iptv12k.com:35461/80301070602/456776/742
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1 (B)" tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="MYBasic CH",TV1 (B)
 http://iptv12k.com:35461/80301070602/456776/6505
 
@@ -16,7 +16,7 @@ http://iptv12k.com:35461/80301070602/456776/6505
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
 
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="MYBasic CH",TV2
-http://foctv.xyz:25510/548859/585898/3
+http://iptv12k.com:35461/80301070602/456776/741
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2 (FHD)" tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="MYBasic CH",TV2 (FHD)
 http://foctv.xyz:25510/548859/585898/4
 
@@ -25,18 +25,18 @@ http://foctv.xyz:25510/548859/585898/4
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live03.mpd
 
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3 (Full HD)" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="MALAYSIA",TV3 (Full HD)
-http://foctv.xyz:25510/548859/585898/5
+http://iptv12k.com:35461/80301070602/456776/740
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3(B)" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="MYBasic CH",TV3(B)
-http://foctv.xyz:25510/548859/585898/6
+http://iptv12k.com:35461/80301070602/456776/5073
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3(C)" tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="MYBasic CH",TV3(C)
-http://foctv.xyz:25510/548859/585898/7
+http://iptv12k.com:35461/80301070602/456776/5072
 
 #EXTINF:-1 tvg-id="TV6" group-title="MYBasic CH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",113 TV6
 # https://rtm6.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd
 https://rtmlive07tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-id="TV6" tvg-name="TV6" tvg-logo="https://i.ibb.co/8d4qB3r/6.png" group-title="MYBasic CH",TV6
-http://foctv.xyz:25510/548859/585898/203
+http://iptv12k.com:35461/80301070602/456776/4142
 
 #EXTINF:-1 group-title="Astro" tvg-id="AstroRia" ch-number="104" tvg-logo="https://aqfadtv.astradamy.com/logos/AstroRia.png",104 Astro Ria
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
@@ -45,9 +45,11 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142668.m3u8
 http://axcestv.vip:8080/live/freeview/axcestv/454.ts
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="Astro",Astro Ria
-http://foctv.xyz:25510/548859/585898/23
+http://iptv12k.com:35461/80301070602/456776/4354
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria (B)" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="Astro",Astro Ria (B)
-http://foctv.xyz:25510/548859/585898/224
+http://iptv12k.com:35461/80301070602/456776/4353
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria (C)" tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="Astro",Astro Ria (C)
+http://iptv12k.com:35461/80301070602/456776/735
 
 #EXTINF:-1 tvg-id="AstroPrima" group-title="Astro" ch-number="105" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c4/Astro_Prima_2019.png/revision/latest?cb=20190111152445",105 Astro Prima
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -55,14 +57,18 @@ http://foctv.xyz:25510/548859/585898/224
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="Astro",Astro Prima
-http://foctv.xyz:25510/548859/585898/21
+http://iptv12k.com:35461/80301070602/456776/734
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima (B)" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="Astro",Astro Prima (B)
+http://iptv12k.com:35461/80301070602/456776/5959
+#EXTINF:-1 tvg-id="AstroPrima" tvg-name="Astro Prima (C)" tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="Astro",Astro Prima (C)
+http://iptv12k.com:35461/80301070602/456776/5958
 
 #EXTINF:-1 tvg-id="DramaSangat" group-title="Online TV" ch-number="105" tvg-logo="https://aqfadtv.xyz/logos/DramaSangatWhite.png",Drama Sangat
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8
 # https://aqfadtv.astradamy.com/stream/DramaSangat.php
 
 #EXTINF:-1 tvg-id="DramaSangat" tvg-name="Drama Sangat" tvg-logo="https://i.ibb.co/sgf8zg9/dramasngt.png" group-title="Online TV",Drama Sangat
-http://foctv.xyz:25510/548859/585898/13
+http://iptv12k.com:35461/80301070602/456776/5997
 
 #EXTINF:-1 tvg-id="AstroOasis" group-title="Astro" ch-number="106" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",106 Astro Oasis
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -70,7 +76,7 @@ http://foctv.xyz:25510/548859/585898/13
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroOasis" tvg-name="Astro Oasis" tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="Astro",Astro Oasis
-http://foctv.xyz:25510/548859/585898/18
+http://iptv12k.com:35461/80301070602/456776/732
 
 #EXTINF:-1 tvg-id="AstroWarna" group-title="Astro" ch-number="107" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5e/Warna.png/revision/latest?cb=20200823172850",107 Astro Warna
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
@@ -79,11 +85,15 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna (A)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Astro",Astro Warna (A)
-http://foctv.xyz:25510/548859/585898/297
+http://iptv12k.com:35461/80301070602/456776/5075
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna (C)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Astro",Astro Warna (C)
-http://foctv.xyz:25510/548859/585898/24
+http://iptv12k.com:35461/80301070602/456776/733
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna (B)" tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="Astro",Astro Warna (B)
-http://foctv.xyz:25510/548859/585898/25
+http://iptv12k.com:35461/80301070602/456776/5074
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="SG-Astro Warna SG" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="Astro",SG-Astro Warna SG
+http://iptv12k.com:35461/80301070602/456776/4313
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Hub.Astro Warna" tvg-logo="https://i.loli.net/2021/10/05/tulOMZw6fxyFCLX.png" group-title="Astro",Hub.Astro Warna
+http://iptv12k.com:35461/80301070602/456776/9169
 
 #EXTINF:-1 tvg-id="AstroCitra" group-title="Astro" ch-number="108" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Astro_Citra_Logo_2018.png/revision/latest?cb=20200917121355",108 Astro Citra
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -95,9 +105,9 @@ https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142671.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="Astro",Astro Citra
-http://foctv.xyz:25510/548859/585898/26
+http://iptv12k.com:35461/80301070602/456776/721
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra(B)" tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="Astro",Astro Citra(B)
-http://foctv.xyz:25510/548859/585898/27
+http://iptv12k.com:35461/80301070602/456776/6608
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Astro First- Rompak" tvg-logo="https://i.ibb.co/qNz2qnp/first.png" group-title="ASTRO FIRST",Astro First- Rompak
@@ -162,7 +172,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2508/default_ott.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroRania" tvg-name="Astro Rania" tvg-logo="https://i.ibb.co/Qb0vSRX/rania.png" group-title="Indonesian Astro",Astro Rania
-http://foctv.xyz:25510/548859/585898/29
+http://iptv12k.com:35461/80301070602/456776/728
 
 #EXTINF:-1 tvg-id="AstroAura" group-title="Indonesian Astro" ch-number="113" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",113 Astro Aura
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -170,7 +180,7 @@ http://foctv.xyz:25510/548859/585898/29
 http://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroAura" tvg-name="Astro Aura" tvg-logo="https://i.ibb.co/YbNWSYK/aura.png" group-title="Indonesian Astro",Astro Aura
-http://foctv.xyz:25510/548859/585898/28
+http://iptv12k.com:35461/80301070602/456776/3949
 
 #EXTINF:-1 group-title="Unifi CH" ch-number="113" tvg-id="113" tvg-logo="https://playtv.unifi.com.my:7044/CPS/images/universal/film/logo/201907/20190716/20190716062504007e6f.png",113 Salam HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -182,8 +192,8 @@ https://live.astradamy.com/unifitv/salam/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/1113
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/7bWBVPC/liu.png" group-title="YBasic CH",Alhijrah
-http://foctv.xyz:25510/548859/585898/14
+#EXTINF:-1 tvg-id="TVAlhijrah" tvg-name="Alhijrah" tvg-logo="https://i.ibb.co/7bWBVPC/liu.png" group-title="MYBasic CH",Alhijrah
+http://iptv12k.com:35461/80301070602/456776/726
 
 #EXTINF:-1 tvg-id="ColorsHD" group-title="Indian" ch-number="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colors_tv2017.png/220px-Colors_tv2017.png",116 Colors HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -277,7 +287,7 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 # https://aqfadtv.astradamy.com/stream/TV9.php
 
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="MYBasic CH",TV9
-http://foctv.xyz:25510/548859/585898/10
+http://iptv12k.com:35461/80301070602/456776/737
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9(B)" tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="MYBasic CH",TV9(B)
 http://foctv.xyz:25510/548859/585898/11
 
@@ -809,7 +819,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5071/default_primary.mpd
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2606/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria" tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="Kids",Astro Ceria
-http://foctv.xyz:25510/548859/585898/19
+http://iptv12k.com:35461/80301070602/456776/730
 #EXTINF:-1 tvg-id="AstroCeria" tvg-name="Astro Ceria(B)" tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="Kids",Astro Ceria(B)
 http://foctv.xyz:25510/548859/585898/20
 
